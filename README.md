@@ -8,13 +8,17 @@ Minang Translator Model adalah aplikasi berbasis terminal untuk menerjemahkan ka
 
 Bahasa pemrograman yang digunakan dalam aplikasi ini adalah Python.
 
+---
+
 ## 📦 Setup Virtual Environment
 
 ### Buat environment baru
 
 ```bash
 python -m venv myenv
+
 # atau
+
 python3 -m venv myenv
 ```
 
@@ -23,7 +27,9 @@ python3 -m venv myenv
 ```bash
 # di Linux/Mac
 source myenv/bin/activate
+
 # di Windows
+
 myenv\Scripts\activate
 ```
 
@@ -53,8 +59,8 @@ minang-translator/
 
 # 📝 Dokumentasi
 
-- [x] Dokumentasi kode
-- [x] Dokumentasi database
+- [ ] Dokumentasi kode
+- [ ] Dokumentasi database
 - [ ] Dokumentasi API (jika ada)
 - [ ] Dokumentasi penggunaan aplikasi
 - [ ] Dokumentasi pengembangan aplikasi
@@ -63,6 +69,6 @@ minang-translator/
 
 # Copyright
 
-Mikumiestu (2023) - [mikumiestu@technovagroupinc.com](mailto:mikumiestu@technovagroupinc.com)
+Mikumiestu (2025) - [mikumiestu@technovagroupinc.com](mailto:mikumiestu@technovagroupinc.com)
 
 Distribusi bebas dengan lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanjut.
