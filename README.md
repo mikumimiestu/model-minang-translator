@@ -1,3 +1,10 @@
+<!-- Logo Python dan SQLite -->
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="180"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite Logo" width="100"/>
+</p>
+
 # Minang Translator Model
 
 Minang Translator Model adalah aplikasi berbasis terminal untuk menerjemahkan kata atau kalimat dari Bahasa Indonesia/Inggris ke Bahasa Minang. Model ini juga mendukung penambahan data baru ke dalam database SQLite lokal.
@@ -7,6 +14,12 @@ Minang Translator Model adalah aplikasi berbasis terminal untuk menerjemahkan ka
 # Bahsa Pemrograman
 
 Bahasa pemrograman yang digunakan dalam aplikasi ini adalah Python.
+
+---
+
+# Database
+
+Database yang digunakan dalam aplikasi ini adalah SQLite.
 
 ---
 
